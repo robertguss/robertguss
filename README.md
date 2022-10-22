@@ -1,4 +1,20 @@
-### Hi there 👋
+# 👋 Hey I'm Robert
+
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=howtocode_io&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/howtocode_io?label=%howtocode_io&style=social"></a>  •
+  <a href="https://howtocode.io">Website</a> •
+  <a href="https://twitter.com/howtocode_io">Twitter</a>
+</p>
+
+---
+
+I am a DX engineer at [Coherence](https://www.withcoherence.com/). I am passionate about developer education and get their first jobs in tech.
+
+## Links
+- [Free Books](https://www.howtocode.io/posts/free-resources/free-books)
+- [Free Courses](https://www.howtocode.io/posts/free-resources/free-courses)
+- [Podcast](https://anchor.fm/how-to-code)
+- [Newsletter](https://www.getrevue.co/profile/howtocode_io)
 
 <!--
 **robertguss/robertguss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
