@@ -1,6 +1,6 @@
 # 👋 Hey I'm Robert
 
-I'm a Senior Software Engineer. You can read my [origin story](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code) and how I became a self-taught web developer in 5 months [here](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code).
+I'm a Senior Software Engineer with over eight years of experience. You can read my [origin story](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code) on how I became a self-taught web developer in five months with no prior coding experience [here](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code).
 
 I create free web development tutorials, courses, and books at [HowtoCode.io](https://www.howtocode.io/).
 
