@@ -8,7 +8,7 @@
 
 ---
 
-I'm a DX engineer at [Coherence](https://www.withcoherence.com/). I create free web development tutorials, courses and books at [HowtoCode.io](https://www.howtocode.io/)
+I'm a Senior Software Engineer. I create free web development tutorials, courses, and books at [HowtoCode.io](https://www.howtocode.io/)
 
 ## Links
 - [Free Books](https://www.howtocode.io/posts/free-resources/free-books)
