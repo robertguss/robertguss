@@ -1,13 +1,5 @@
 # 👋 Hey I'm Robert
 
-<p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=howtocode_io&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/howtocode_io?label=howtocode_io&style=social"></a>  •
-  <a href="https://howtocode.io">Website</a> •
-  <a href="https://twitter.com/howtocode_io">Twitter</a>
-</p>
-
----
-
 I'm a Senior Software Engineer. I create free web development tutorials, courses, and books at [HowtoCode.io](https://www.howtocode.io/)
 
 ## Links
