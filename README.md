@@ -1,26 +1,37 @@
 # 👋 Hey I'm Robert
 
-I'm a Senior Software Engineer with over eight years of experience. You can read my [origin story](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code) on how I became a self-taught web developer in five months with no prior coding experience [here](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code).
+I'm a Staff Software Engineer with over 11 years of experience. You can read my
+[origin story](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code)
+on how I became a self-taught web developer in five months with no prior coding experience
+[here](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code).
 
-I create free web development tutorials, courses, and books at [HowtoCode.io](https://www.howtocode.io/).
+I create free web development tutorials, courses, and books at
+[HowtoCode.io](https://www.howtocode.io/).
+
+## Current Projects
+
+- 🕵 [RepoScout](https://github.com/robertguss/repo-scout) - a local, deterministic CLI for indexing
+  a repository and answering code-navigation questions fast.
+- 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of
+  custom skills that extend Claude's capabilities with specialized workflows, methods, and domain
+  knowledge.
+- 🚀 [Web App Starter Kit](https://github.com/robertguss/web-app-starter-kit) - An opinionated
+  starter kit for shipping your ideas fast with AI
+- 🤖 [BMAD Automated](https://github.com/robertguss/bmad_automated) - A CLI tool for automating
+  BMAD-METHOD development workflows with Claude Code.
+- 📝 [Claude Code Transcripts](https://github.com/robertguss/claude_transcripts) - A CLI tool for
+  converting Claude Code session transcripts to markdown.
+- 👓 [SignalScout](https://github.com/robertguss/signal_scout) - A daily digest tool that surfaces
+  high-value engagement opportunities across online communities, starting with Reddit.
+- 🤑 [MoneyHQ - Local](https://github.com/robertguss/money_hq_local_first) - A local-first personal
+  finance command center. Track spending, manage debt, forecast cash flow — all with your data
+  staying on your machine.
 
 ## Links
+
+- [Ship with AI - Community](https://www.skool.com/ship-with-ai-8242) - my free Skool community
+  where we learn how to ship software with AI
+- [Ship with AI - Newsletter](https://shipai.substack.com/)
 - [Free Books](https://www.howtocode.io/posts/free-resources/free-books)
-- [Free Courses](https://www.howtocode.io/posts/free-resources/free-courses)
+- [Free Courses](https://www.udemy.com/user/robertguss/)
 - [Podcast](https://anchor.fm/how-to-code)
-- [Newsletter](https://www.getrevue.co/profile/howtocode_io)
-
-<!--
-**robertguss/robertguss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
