@@ -15,6 +15,7 @@ I create free web development tutorials, courses, and books at
 - 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of
   custom skills that extend Claude's capabilities with specialized workflows, methods, and domain
   knowledge.
+- 🐅 [Programming Tiger Style](https://github.com/robertguss/programming_tiger_style)
 - 🚀 [Web App Starter Kit](https://github.com/robertguss/web-app-starter-kit) - An opinionated
   starter kit for shipping your ideas fast with AI
 - 🤖 [BMAD Automated](https://github.com/robertguss/bmad_automated) - A CLI tool for automating
