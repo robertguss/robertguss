@@ -10,8 +10,8 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
-- 🕵 [RepoScout](https://github.com/robertguss/repo-scout) - a local, deterministic CLI for indexing
-  a repository and answering code-navigation questions fast.
+- 🕵 [Recon](https://github.com/robertguss/recon) - Code intelligence and knowledge CLI for Go
+  repositories.
 - 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of
   custom skills that extend Claude's capabilities with specialized workflows, methods, and domain
   knowledge.
