@@ -10,7 +10,7 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
-- [Flutter Firebase Starter Kit](https://github.com/robertguss/flutter-firebase-starter-kit) - An
+- 🕊️ [Flutter Firebase Starter Kit](https://github.com/robertguss/flutter-firebase-starter-kit) - An
   open-source starter kit for building mobile apps with Flutter, Firebase, Riverpod, GoRouter,
   RevenueCat, onboarding, settings, and push-notification scaffolding.
 - 🕵 [Recon](https://github.com/robertguss/recon) - Code intelligence and knowledge CLI for Go
