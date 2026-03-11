@@ -10,6 +10,11 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
+- 🦜
+  [Flutter Supabase Starter Kit](https://github.com/robertguss/mobile-starter-kit-flutter-supabase) -
+  Offline-first Flutter starter kit built with Supabase, PowerSync, Riverpod, GoRouter, RevenueCat,
+  OneSignal, Sentry, PostHog, slang, and flutter_gen.
+
 - 🕊️ [Flutter Firebase Starter Kit](https://github.com/robertguss/flutter-firebase-starter-kit) - An
   open-source starter kit for building mobile apps with Flutter, Firebase, Riverpod, GoRouter,
   RevenueCat, onboarding, settings, and push-notification scaffolding.
