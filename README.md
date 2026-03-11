@@ -40,3 +40,7 @@ I create free web development tutorials, courses, and books at
 - [Free Books](https://www.howtocode.io/posts/free-resources/free-books)
 - [Free Courses](https://www.udemy.com/user/robertguss/)
 - [Podcast](https://anchor.fm/how-to-code)
+
+## GitHub Stats
+
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertguss)](https://github.com/robertguss/github-readme-stats)
