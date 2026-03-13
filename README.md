@@ -10,6 +10,10 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
+- 🥤 [Expo Supabase Starer Kit](https://github.com/robertguss/mobile-starter-kit-expo-supabase) -
+  Production-oriented Expo starter kit for authenticated mobile apps built with React Native,
+  TypeScript, Supabase, Expo Router, NativeWind, TanStack Query, Zustand, PostHog, Sentry, and EAS.
+
 - 🦜
   [Flutter Supabase Starter Kit](https://github.com/robertguss/mobile-starter-kit-flutter-supabase) -
   Offline-first Flutter starter kit built with Supabase, PowerSync, Riverpod, GoRouter, RevenueCat,
