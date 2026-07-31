@@ -10,6 +10,9 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
+- 🥼 [Artifact Driven Research Program](https://github.com/robertguss/artifact-driven-research-program)
+  Evidence-grounded research → coherent architecture → adversarial review → implementation plan as phases and milestones. Git is the system of record.
+
 - 🥤 [Expo Supabase Starer Kit](https://github.com/robertguss/mobile-starter-kit-expo-supabase) -
   Production-oriented Expo starter kit for authenticated mobile apps built with React Native,
   TypeScript, Supabase, Expo Router, NativeWind, TanStack Query, Zustand, PostHog, Sentry, and EAS.
