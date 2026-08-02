@@ -10,8 +10,9 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
-- 🥼 [Artifact Driven Research Program](https://github.com/robertguss/artifact-driven-research-program)
-  Evidence-grounded research → coherent architecture → adversarial review → implementation plan as phases and milestones. Git is the system of record.
+- 🐦‍🔥 [Phoenix/Intertia - Starter Kit](https://github.com/robertguss/phoenix-inertia-starter) - A pinned, always-green Phoenix 1.8 / Ash 3 template. One superset repo births an Inertia + React + TypeScript web project, or a JSON:API project via a single command — optimized so AI agents can start shipping features immediately from working, conventional code.
+
+- 🥼 [Artifact Driven Research Program](https://github.com/robertguss/artifact-driven-research-program) - Evidence-grounded research → coherent architecture → adversarial review → implementation plan as phases and milestones. Git is the system of record.
 
 - 🥤 [Expo Supabase Starer Kit](https://github.com/robertguss/mobile-starter-kit-expo-supabase) -
   Production-oriented Expo starter kit for authenticated mobile apps built with React Native,
