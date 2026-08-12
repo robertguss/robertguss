@@ -10,6 +10,8 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
+- 🥤[Go Foundry CLI](https://github.com/robertguss/go-foundry-cli) - Foundry generates minimal, production-grade Go CLI and TUI projects from a strict TOML specification and an embedded catalog — with descriptor-relative filesystem transactions, closed tool environments, and commit-dominant exit semantics.
+
 - 🥾 [exe-bootstrap](https://github.com/robertguss/exe-bootstrap) - Modular idempotent dev environment bootstrap for disposable exe.dev VMs
 
 - 🐦‍🔥 [Phoenix/Intertia - Starter Kit](https://github.com/robertguss/phoenix-inertia-starter) - A pinned, always-green Phoenix 1.8 / Ash 3 template. One superset repo births an Inertia + React + TypeScript web project, or a JSON:API project via a single command — optimized so AI agents can start shipping features immediately from working, conventional code.
