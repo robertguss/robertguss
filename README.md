@@ -1,6 +1,6 @@
 # 👋 Hey I'm Robert
 
-I'm a Staff Software Engineer with over 11 years of experience. You can read my
+I'm a Senior Software Engineer with over 11 years of experience. You can read my
 [origin story](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code)
 on how I became a self-taught web developer in five months with no prior coding experience
 [here](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code).
@@ -9,6 +9,8 @@ I create free web development tutorials, courses, and books at
 [HowtoCode.io](https://www.howtocode.io/).
 
 ## Current Projects
+
+- 🍄 [Mycelium](https://github.com/robertguss/mycelium) - Single-binary Go CLI that scaffolds and operates idea repos.
 
 - 🥤[Go Foundry CLI](https://github.com/robertguss/go-foundry-cli) - Foundry generates minimal, production-grade Go CLI and TUI projects from a strict TOML specification and an embedded catalog — with descriptor-relative filesystem transactions, closed tool environments, and commit-dominant exit semantics.
 
