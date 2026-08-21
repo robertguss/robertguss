@@ -10,6 +10,8 @@ I create free web development tutorials, courses, and books at
 
 ## Current Projects
 
+- 💬 [Money Advisor](https://github.com/robertguss/money-advisor) - Personal financial advisor you run in chat. Agent + files + CLI. Sample data only.
+
 - 🍄 [Mycelium](https://github.com/robertguss/mycelium) - Single-binary Go CLI that scaffolds and operates idea repos.
 
 - 🥤[Go Foundry CLI](https://github.com/robertguss/go-foundry-cli) - Foundry generates minimal, production-grade Go CLI and TUI projects from a strict TOML specification and an embedded catalog — with descriptor-relative filesystem transactions, closed tool environments, and commit-dominant exit semantics.
