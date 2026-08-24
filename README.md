@@ -12,8 +12,8 @@ I create free web development tutorials, courses, and books at
 
 ### Starter Kits
 
-- [Larvavel App Starter Kit](https://github.com/robertguss/laravel-app-starter-kit)
-- [Rails App Starter Kit](https://github.com/robertguss/rails-app-starter-kit)
+- ⌨️ [Larvavel App Starter Kit](https://github.com/robertguss/laravel-app-starter-kit)
+- 🛤️ [Rails App Starter Kit](https://github.com/robertguss/rails-app-starter-kit)
 - 🚀 [Web App Starter Kit](https://github.com/robertguss/web-app-starter-kit) - An opinionated
   starter kit for shipping your ideas fast with AI
 - 🐦‍🔥 [Phoenix/Intertia - Starter Kit](https://github.com/robertguss/phoenix-inertia-starter) - A pinned, always-green Phoenix 1.8 / Ash 3 template. One superset repo births an Inertia + React + TypeScript web project, or a JSON:API project via a single command — optimized so AI agents can start shipping features immediately from working, conventional code.
