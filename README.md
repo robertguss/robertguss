@@ -11,6 +11,7 @@ I create free web development tutorials, courses, and books at
 ## Current Projects
 
 ### Starter Kits
+- 🦀 [Rust Web Kit](https://github.com/robertguss/rust-web-kit) - AI-first full-stack starter: Rust (Axum) API + React (Vite) frontend, shipped as a single Docker image.
 - 📟 [Go Full Stack Template](https://github.com/robertguss/go-full-stack-template) - A GitHub template for small, production-ready full-stack applications in Amp orbs and exe.dev. It produces one portable Go binary containing the React app, API, migrations, and SQLite driver—without a project-generation CLI.
 - 🦊 [Go Full Stack Start](https://github.com/robertguss/go-full-stack-start) - An opinionated CLI generator for production-minded personal apps and internal tools: Go, React, TypeScript, SQLite, typed OpenAPI contracts, passkeys/passwords, and realtime SSE in one deployable binary.
 - ⌨️ [Larvavel App Starter Kit](https://github.com/robertguss/laravel-app-starter-kit)
