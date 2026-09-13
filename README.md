@@ -9,7 +9,7 @@ I create free web development tutorials, courses, and books at
 [HowtoCode.io](https://www.howtocode.io/).
 
 ## Current Projects
-- 🧬 [Mo Lang](https://github.com/robertguss/mo-lang) - A from-scratch programming language for the AI era
+- 🧬 [Mo](https://github.com/robertguss/mo-lang) - A from-scratch programming language for the AI era
 
 ### Starter Kits
 - 🦀 [Rust Web Kit](https://github.com/robertguss/rust-web-kit) - AI-first full-stack starter: Rust (Axum) API + React (Vite) frontend, shipped as a single Docker image.
