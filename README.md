@@ -32,6 +32,7 @@ I create free web development tutorials, courses, and books at
   RevenueCat, onboarding, settings, and push-notification scaffolding.
 
 ### Misc.
+- 🤔 [ThinkBench](https://github.com/robertguss/think-bench-elixir) - A shared visual board beside a chat with AI
 - 🐆 [Go Plan](https://github.com/robertguss/go-plan) - a deterministic, offline CLI for creating, approving, executing, revising, and retiring one Git-native implementation plan. The executable is named gp.
 - 🕵 [Recon](https://github.com/robertguss/recon) - Code intelligence and knowledge CLI for Go
   repositories.
