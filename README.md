@@ -1,13 +1,5 @@
 # 👋 Hey I'm Robert
 
-I'm a Senior Software Engineer with over 11 years of experience. You can read my
-[origin story](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code)
-on how I became a self-taught web developer in five months with no prior coding experience
-[here](https://www.howtocode.io/posts/the-self-taught-developer/how-i-taught-myself-how-to-code).
-
-I create free web development tutorials, courses, and books at
-[HowtoCode.io](https://www.howtocode.io/).
-
 ## Current Projects
 - 🧬 [Mo](https://github.com/robertguss/mo-lang) - A from-scratch programming language for the AI era
 
@@ -46,16 +38,3 @@ I create free web development tutorials, courses, and books at
 - 🤑 [MoneyHQ - Local](https://github.com/robertguss/money_hq_local_first) - A local-first personal
   finance command center. Track spending, manage debt, forecast cash flow — all with your data
   staying on your machine.
-
-## Links
-
-- [Ship with AI - Community](https://www.skool.com/ship-with-ai-8242) - my free Skool community
-  where we learn how to ship software with AI
-- [Ship with AI - Newsletter](https://shipai.substack.com/)
-- [Free Books](https://www.howtocode.io/posts/free-resources/free-books)
-- [Free Courses](https://www.udemy.com/user/robertguss/)
-- [Podcast](https://anchor.fm/how-to-code)
-
-## GitHub Stats
-
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertguss)](https://github.com/robertguss/github-readme-stats)
