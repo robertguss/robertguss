@@ -20,16 +20,7 @@ I create free web development tutorials, courses, and books at
 - 🚀 [Web App Starter Kit](https://github.com/robertguss/web-app-starter-kit) - An opinionated
   starter kit for shipping your ideas fast with AI
 - 🐦‍🔥 [Phoenix/Intertia - Starter Kit](https://github.com/robertguss/phoenix-inertia-starter) - A pinned, always-green Phoenix 1.8 / Ash 3 template. One superset repo births an Inertia + React + TypeScript web project, or a JSON:API project via a single command — optimized so AI agents can start shipping features immediately from working, conventional code.
-- 🥤 [Expo Supabase Starer Kit](https://github.com/robertguss/mobile-starter-kit-expo-supabase) -
-  Production-oriented Expo starter kit for authenticated mobile apps built with React Native,
-  TypeScript, Supabase, Expo Router, NativeWind, TanStack Query, Zustand, PostHog, Sentry, and EAS.
-- 🦜
-  [Flutter Supabase Starter Kit](https://github.com/robertguss/mobile-starter-kit-flutter-supabase) -
-  Offline-first Flutter starter kit built with Supabase, PowerSync, Riverpod, GoRouter, RevenueCat,
-  OneSignal, Sentry, PostHog, slang, and flutter_gen.
-- 🕊️ [Flutter Firebase Starter Kit](https://github.com/robertguss/flutter-firebase-starter-kit) - An
-  open-source starter kit for building mobile apps with Flutter, Firebase, Riverpod, GoRouter,
-  RevenueCat, onboarding, settings, and push-notification scaffolding.
+
 
 ### Misc.
 - 🤔 [ThinkBench](https://github.com/robertguss/think-bench-elixir) - A shared visual board beside a chat with AI
