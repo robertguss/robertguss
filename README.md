@@ -4,6 +4,7 @@
 - 🧬 [Mo](https://github.com/robertguss/mo-lang) - A from-scratch programming language for the AI era
 
 ### Starter Kits
+- ⏿ [Iris](https://github.com/robertguss/Iris) - An opinionated framework for building full stack Rust & React applications
 - 🏕️ [Treehouse](https://github.com/robertguss/treehouse) - Starter kit for family browser 3D games: React Three Fiber, iPad-first, multiplayer on Cloudflare, built by agents
 - 🦀 [Rust Web Kit](https://github.com/robertguss/rust-web-kit) - AI-first full-stack starter: Rust (Axum) API + React (Vite) frontend, shipped as a single Docker image.
 - 📟 [Go Full Stack Template](https://github.com/robertguss/go-full-stack-template) - A GitHub template for small, production-ready full-stack applications in Amp orbs and exe.dev. It produces one portable Go binary containing the React app, API, migrations, and SQLite driver—without a project-generation CLI.
