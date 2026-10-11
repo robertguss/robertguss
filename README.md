@@ -1,7 +1,7 @@
 # 👋 Hey I'm Robert
 
 ## Current Projects
-- 🧬 [Mo](https://github.com/robertguss/mo-lang) - A from-scratch programming language for the AI era
+- 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
 
 ### Starter Kits
 - ⏿ [Iris](https://github.com/robertguss/Iris) - An opinionated framework for building full stack Rust & React applications
