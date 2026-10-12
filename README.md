@@ -3,6 +3,10 @@
 ## Current Projects
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
 
+## Skills
+- 🥞 [Pstack Portable](https://github.com/robertguss/pstack-portable) - Vendor Cursor's pstack plugin into any project for Amp, Claude Code and Codex, with per-role models in pstack.config.yaml.
+- 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
+
 ### Starter Kits
 - ⏿ [Iris](https://github.com/robertguss/Iris) - An opinionated framework for building full stack Rust & React applications
 - 🏕️ [Treehouse](https://github.com/robertguss/treehouse) - Starter kit for family browser 3D games: React Three Fiber, iPad-first, multiplayer on Cloudflare, built by agents
@@ -26,9 +30,6 @@
 - 🥤[Go Foundry CLI](https://github.com/robertguss/go-foundry-cli) - Foundry generates minimal, production-grade Go CLI and TUI projects from a strict TOML specification and an embedded catalog — with descriptor-relative filesystem transactions, closed tool environments, and commit-dominant exit semantics.
 - 🥾 [exe-bootstrap](https://github.com/robertguss/exe-bootstrap) - Modular idempotent dev environment bootstrap for disposable exe.dev VMs
 - 🥼 [Artifact Driven Research Program](https://github.com/robertguss/artifact-driven-research-program) - Evidence-grounded research → coherent architecture → adversarial review → implementation plan as phases and milestones. Git is the system of record.
-- 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of
-  custom skills that extend Claude's capabilities with specialized workflows, methods, and domain
-  knowledge.
 - 🐅 [Programming Tiger Style](https://github.com/robertguss/programming_tiger_style) -
   Standards-first repository for high-rigor coding with humans and AI agents.
 - 🤖 [BMAD Automated](https://github.com/robertguss/bmad_automated) - A CLI tool for automating
