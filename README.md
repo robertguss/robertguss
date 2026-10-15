@@ -11,6 +11,7 @@
 - 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 
 ### Starter Kits
+- 🦚 [Go Islands Starter](https://github.com/robertguss/go-islands-starter) - Go + templ + React islands starter kit
 - ⏿ [Iris](https://github.com/robertguss/Iris) - An opinionated framework for building full stack Rust & React applications
 - 🏕️ [Treehouse](https://github.com/robertguss/treehouse) - Starter kit for family browser 3D games: React Three Fiber, iPad-first, multiplayer on Cloudflare, built by agents
 - 🦀 [Rust Web Kit](https://github.com/robertguss/rust-web-kit) - AI-first full-stack starter: Rust (Axum) API + React (Vite) frontend, shipped as a single Docker image.
