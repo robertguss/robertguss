@@ -4,7 +4,7 @@
 
 ## Languages
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
-- 🦺 [Safe C](https://github.com/robertguss/safe-c)
+- 🦺 [Safe C](https://github.com/robertguss/safe-c) - Make C a practical, near-provably safe language for AI agents to write
 
 ## Skills
 - 🥞 [Pstack Portable](https://github.com/robertguss/pstack-portable) - Vendor Cursor's pstack plugin into any project for Amp, Claude Code and Codex, with per-role models in pstack.config.yaml.
