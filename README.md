@@ -10,6 +10,9 @@
 - 🥞 [Pstack Portable](https://github.com/robertguss/pstack-portable) - Vendor Cursor's pstack plugin into any project for Amp, Claude Code and Codex, with per-role models in pstack.config.yaml.
 - 🧰 [Claude Code Toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 
+## Agents
+- 🎏 [Elara](https://github.com/robertguss/Elara) - Elara is a BEAM-native coding agent for a local working directory. It can inspect and edit files, run shell commands, keep persistent conversations, load local tools, and move tool execution to a separate worker. It emphasizes durable, causally explainable work rather than feature-for-feature parity with existing agents.
+
 ### Starter Kits
 - 🦚 [Go Islands Starter](https://github.com/robertguss/go-islands-starter) - Go + templ + React islands starter kit
 - ⏿ [Iris](https://github.com/robertguss/Iris) - An opinionated framework for building full stack Rust & React applications
