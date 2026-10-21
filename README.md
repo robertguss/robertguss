@@ -28,6 +28,7 @@
 
 
 ### Misc.
+- 👀 [Qgate](https://github.com/robertguss/qgate) - A local, deterministic quality gate for code written by AI agents. It runs as git hooks on every commit and push, so the mechanical checks that usually wait on remote CI finish on your machine in seconds, and AI review can spend its tokens on judgment instead.
 - 🤔 [ThinkBench](https://github.com/robertguss/think-bench-elixir) - A shared visual board beside a chat with AI
 - 🐆 [Go Plan](https://github.com/robertguss/go-plan) - a deterministic, offline CLI for creating, approving, executing, revising, and retiring one Git-native implementation plan. The executable is named gp.
 - 🕵 [Recon](https://github.com/robertguss/recon) - Code intelligence and knowledge CLI for Go
