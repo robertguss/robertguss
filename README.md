@@ -1,6 +1,6 @@
 # 👋 Hey I'm Robert
 
-# Current Projects
+# Projects
 
 ## Languages
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
@@ -14,7 +14,11 @@
 - 🎏 [Elara](https://github.com/robertguss/Elara) - Elara is a BEAM-native coding agent for a local working directory. It can inspect and edit files, run shell commands, keep persistent conversations, load local tools, and move tool execution to a separate worker. It emphasizes durable, causally explainable work rather than feature-for-feature parity with existing agents.
 - 🧠 [Agent Skills](https://github.com/robertguss/agent-skills) - Portable agent skills in the open Agent Skills format. Each skill is a folder under skills/ that runs unchanged in Claude Code, Codex, Cursor, Gemini CLI, and Antigravity CLI.
 
-### Starter Kits
+## Theology
+- [Bron](https://github.com/robertguss/bron) - An open commons giving English readers access to the primary sources of the Reformed and neo-Calvinist tradition in their original languages — Dutch, Latin, French, German — without requiring them to know those languages. Original and translation side by side, every claim traceable to a page, every translation carrying its provenance, every passage citable forever.
+- [Reformed Bible Study](https://github.com/robertguss/reformed-bible-study) - A free, open-source Reformed Bible study app built from openly licensed resources
+
+## Starter Kits
 - 🦚 [Go Islands Starter](https://github.com/robertguss/go-islands-starter) - Go + templ + React islands starter kit
 - ⏿ [Iris](https://github.com/robertguss/Iris) - An opinionated framework for building full stack Rust & React applications
 - 🏕️ [Treehouse](https://github.com/robertguss/treehouse) - Starter kit for family browser 3D games: React Three Fiber, iPad-first, multiplayer on Cloudflare, built by agents
@@ -28,7 +32,7 @@
 - 🐦‍🔥 [Phoenix/Intertia - Starter Kit](https://github.com/robertguss/phoenix-inertia-starter) - A pinned, always-green Phoenix 1.8 / Ash 3 template. One superset repo births an Inertia + React + TypeScript web project, or a JSON:API project via a single command — optimized so AI agents can start shipping features immediately from working, conventional code.
 
 
-### Misc.
+## Misc.
 - 👄 [Speak](https://github.com/robertguss/speak) - Open-source, bring-your-own-key dictation for Mac, iPhone, and iPad
 - 👀 [Qgate](https://github.com/robertguss/qgate) - A local, deterministic quality gate for code written by AI agents. It runs as git hooks on every commit and push, so the mechanical checks that usually wait on remote CI finish on your machine in seconds, and AI review can spend its tokens on judgment instead.
 - 🤔 [ThinkBench](https://github.com/robertguss/think-bench-elixir) - A shared visual board beside a chat with AI
