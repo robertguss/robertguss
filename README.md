@@ -15,8 +15,8 @@
 - 🧠 [Agent Skills](https://github.com/robertguss/agent-skills) - Portable agent skills in the open Agent Skills format. Each skill is a folder under skills/ that runs unchanged in Claude Code, Codex, Cursor, Gemini CLI, and Antigravity CLI.
 
 ## Theology
-- [Bron](https://github.com/robertguss/bron) - An open commons giving English readers access to the primary sources of the Reformed and neo-Calvinist tradition in their original languages — Dutch, Latin, French, German — without requiring them to know those languages. Original and translation side by side, every claim traceable to a page, every translation carrying its provenance, every passage citable forever.
-- [Reformed Bible Study](https://github.com/robertguss/reformed-bible-study) - A free, open-source Reformed Bible study app built from openly licensed resources
+- ✞ [Bron](https://github.com/robertguss/bron) - An open commons giving English readers access to the primary sources of the Reformed and neo-Calvinist tradition in their original languages — Dutch, Latin, French, German — without requiring them to know those languages. Original and translation side by side, every claim traceable to a page, every translation carrying its provenance, every passage citable forever.
+- ✟ [Reformed Bible Study](https://github.com/robertguss/reformed-bible-study) - A free, open-source Reformed Bible study app built from openly licensed resources
 
 ## Starter Kits
 - 🦚 [Go Islands Starter](https://github.com/robertguss/go-islands-starter) - Go + templ + React islands starter kit
