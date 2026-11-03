@@ -12,7 +12,7 @@
 
 ## AI & Agents
 - 🎏 [Elara](https://github.com/robertguss/Elara) - Elara is a BEAM-native coding agent for a local working directory. It can inspect and edit files, run shell commands, keep persistent conversations, load local tools, and move tool execution to a separate worker. It emphasizes durable, causally explainable work rather than feature-for-feature parity with existing agents.
-- [Agent Skills](https://github.com/robertguss/agent-skills) - Portable agent skills in the open Agent Skills format. Each skill is a folder under skills/ that runs unchanged in Claude Code, Codex, Cursor, Gemini CLI, and Antigravity CLI.
+- 🧠 [Agent Skills](https://github.com/robertguss/agent-skills) - Portable agent skills in the open Agent Skills format. Each skill is a folder under skills/ that runs unchanged in Claude Code, Codex, Cursor, Gemini CLI, and Antigravity CLI.
 
 ### Starter Kits
 - 🦚 [Go Islands Starter](https://github.com/robertguss/go-islands-starter) - Go + templ + React islands starter kit
