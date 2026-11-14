@@ -4,6 +4,7 @@
 
 ## Languages
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
+- 𝌏 [MoDB](https://github.com/robertguss/modb)
 - 🦺 [Safe C](https://github.com/robertguss/safe-c) - Make C a practical, near-provably safe language for AI agents to write
 
 ## Skills
