@@ -3,17 +3,18 @@
 # Projects
 
 ## ⚓ Keel Data Stack (Rust Data Engineering)
-A 10-tool suite of single-binary, agent-first (DX + AX) Rust tools for modern SQL/PostgreSQL/SQLite data pipelines — start at the **[keel-stack hub & unified installer](https://github.com/robertguss/keel-stack)**:
+An 11-tool suite of single-binary, agent-first (DX + AX) Rust tools for modern SQL/PostgreSQL/SQLite data pipelines — start at the **[keel-stack hub & unified installer](https://github.com/robertguss/keel-stack)**:
 - ⚓ [runkeel](https://github.com/robertguss/runkeel) - Zero-daemon, parallel Rust DAG pipeline runner orchestrating the Keel Data Stack and shell/SQL workflows with retries, `--from` resume, Mermaid diagrams, and JSON audit logs.
 - 🌊 [fetchkeel](https://github.com/robertguss/fetchkeel) - Declarative Rust REST API extractor with RFC 5988 `Link`/cursor/page pagination, `429` rate-limit backoff, and atomic incremental watermarks.
 - 🧭 [dapkeel](https://github.com/robertguss/dapkeel) - Blazing-fast Rust CLI for Instructure's Data Access Platform (Canvas Data 2) with OAuth 2.0 per-table JWTs, ODCS contract export, streaming JSONL unpack, and atomic PostgreSQL `COPY` replication.
 - 🛡️ [datakeel](https://github.com/robertguss/datakeel) - Rust data contract, schema drift, cross-source FK, quarantine-splitting, and Postgres/Pydantic codegen CLI with native ODCS v3.2.0 YAML and TOML support.
 - 🚢 [loadkeel](https://github.com/robertguss/loadkeel) - Rust JSONL/JSON/CSV/Parquet to PostgreSQL `COPY` + atomic `ON CONFLICT` upsert bulk loader with JSON flattening, PK dedupe, and safe column evolution.
 - 🔍 [sqlkeel](https://github.com/robertguss/sqlkeel) - Contract-grounded Rust SQL semantic bug analyzer, Postgres migration lock checker, dbt/Jinja preprocessor, and transitive column-level lineage tool.
-- 📊 [statkeel](https://github.com/robertguss/statkeel) - Blazing-fast Rust EDA data profiler (`ydata-profiling` replacement with offline SVG HTML reports), cross-source join health checker, live read-only SQL query trust auditor, and snapshot/query drift comparator.
+- 📊 [statkeel](https://github.com/robertguss/statkeel) - Blazing-fast Rust EDA data profiler (`ydata-profiling` replacement with offline SVG HTML reports), cross-source join health checker, live read-only SQL query trust auditor (`--assert` accounting invariants & `--trace-key` entity lineage), and snapshot/query drift comparator.
 - 🗺️ [mapkeel](https://github.com/robertguss/mapkeel) - Zero-Java, zero-Graphviz Rust SchemaSpy replacement: PostgreSQL/SQLite database cataloger, interactive inline SVG & Mermaid ER diagrams, schema anomaly & snapshot drift checker (`diff`), and automatic implicit cross-schema FK discovery.
 - 🚚 [pgkeel](https://github.com/robertguss/pgkeel) - Zero-Lisp Rust `pgloader` replacement: migrate SQLite, MySQL/MariaDB, CSV, JSONL, and Parquet into PostgreSQL with DDL/type/index/FK translation, parallel streaming `COPY`, identity sequence resets, and row-count verification.
 - 🪶 [litekeel](https://github.com/robertguss/litekeel) - Blazing-fast, single-binary Rust drop-in for `sqlite-utils`: ingest CSV/TSV/JSON/JSONL/Parquet into SQLite with `--alter`, `--flatten`, true upserts, FTS5 BM25 search + sync triggers, `extract`, atomic `transform`, `analyze`, and `optimize`.
+- 🎭 [maskkeel](https://github.com/robertguss/maskkeel) - Blazing-fast, deterministic, referentially-intact Rust PII/FERPA data scrubber (keyed HMAC-SHA256) for CSV, TSV, JSONL, Parquet, SQLite, and PostgreSQL with leading-zero/INT-TEXT join parity and zero-leak `verify`.
 
 ## 🧬 Languages & Databases
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
