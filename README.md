@@ -3,7 +3,7 @@
 # Projects
 
 ## ⚓ Keel Data Stack (Rust Data Engineering)
-A suite of single-binary, agent-first (DX + AX) Rust tools for modern Python/SQL/PostgreSQL data pipelines:
+A 10-tool suite of single-binary, agent-first (DX + AX) Rust tools for modern SQL/PostgreSQL/SQLite data pipelines — start at the **[keel-stack hub & unified installer](https://github.com/robertguss/keel-stack)**:
 - ⚓ [runkeel](https://github.com/robertguss/runkeel) - Zero-daemon, parallel Rust DAG pipeline runner orchestrating the Keel Data Stack and shell/SQL workflows with retries, `--from` resume, Mermaid diagrams, and JSON audit logs.
 - 🌊 [fetchkeel](https://github.com/robertguss/fetchkeel) - Declarative Rust REST API extractor with RFC 5988 `Link`/cursor/page pagination, `429` rate-limit backoff, and atomic incremental watermarks.
 - 🧭 [dapkeel](https://github.com/robertguss/dapkeel) - Blazing-fast Rust CLI for Instructure's Data Access Platform (Canvas Data 2) with OAuth 2.0 per-table JWTs, ODCS contract export, streaming JSONL unpack, and atomic PostgreSQL `COPY` replication.
