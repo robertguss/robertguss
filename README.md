@@ -13,6 +13,7 @@ A suite of single-binary, agent-first (DX + AX) Rust tools for modern Python/SQL
 - 📊 [statkeel](https://github.com/robertguss/statkeel) - Blazing-fast Rust EDA data profiler (`ydata-profiling` replacement with offline SVG HTML reports), cross-source join health checker, live read-only SQL query trust auditor, and snapshot/query drift comparator.
 - 🗺️ [mapkeel](https://github.com/robertguss/mapkeel) - Zero-Java, zero-Graphviz Rust SchemaSpy replacement: PostgreSQL/SQLite database cataloger, interactive inline SVG & Mermaid ER diagrams, schema anomaly & snapshot drift checker (`diff`), and automatic implicit cross-schema FK discovery.
 - 🚚 [pgkeel](https://github.com/robertguss/pgkeel) - Zero-Lisp Rust `pgloader` replacement: migrate SQLite, MySQL/MariaDB, CSV, JSONL, and Parquet into PostgreSQL with DDL/type/index/FK translation, parallel streaming `COPY`, identity sequence resets, and row-count verification.
+- 🪶 [litekeel](https://github.com/robertguss/litekeel) - Blazing-fast, single-binary Rust drop-in for `sqlite-utils`: ingest CSV/TSV/JSON/JSONL/Parquet into SQLite with `--alter`, `--flatten`, true upserts, FTS5 BM25 search + sync triggers, `extract`, atomic `transform`, `analyze`, and `optimize`.
 
 ## 🧬 Languages & Databases
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
