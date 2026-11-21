@@ -3,7 +3,7 @@
 # Projects
 
 ## ⚓ Keel Data Stack (Rust Data Engineering)
-An 11-tool suite of single-binary, agent-first (DX + AX) Rust tools for modern SQL/PostgreSQL/SQLite data pipelines — start at the **[keel-stack hub & unified installer](https://github.com/robertguss/keel-stack)**:
+A 12-tool suite of single-binary, agent-first (DX + AX) Rust tools for modern SQL/PostgreSQL/SQLite data pipelines — start at the **[keel-stack hub & unified installer](https://github.com/robertguss/keel-stack)**:
 - ⚓ [runkeel](https://github.com/robertguss/runkeel) - Zero-daemon, parallel Rust DAG pipeline runner orchestrating the Keel Data Stack and shell/SQL workflows with retries, `--from` resume, Mermaid diagrams, and JSON audit logs.
 - 🌊 [fetchkeel](https://github.com/robertguss/fetchkeel) - Declarative Rust REST API extractor with RFC 5988 `Link`/cursor/page pagination, `429` rate-limit backoff, and atomic incremental watermarks.
 - 🧭 [dapkeel](https://github.com/robertguss/dapkeel) - Blazing-fast Rust CLI for Instructure's Data Access Platform (Canvas Data 2) with OAuth 2.0 per-table JWTs, ODCS contract export, streaming JSONL unpack, and atomic PostgreSQL `COPY` replication.
@@ -14,7 +14,8 @@ An 11-tool suite of single-binary, agent-first (DX + AX) Rust tools for modern S
 - 🗺️ [mapkeel](https://github.com/robertguss/mapkeel) - Zero-Java, zero-Graphviz Rust SchemaSpy replacement: PostgreSQL/SQLite database cataloger, interactive inline SVG & Mermaid ER diagrams, schema anomaly & snapshot drift checker (`diff`), and automatic implicit cross-schema FK discovery.
 - 🚚 [pgkeel](https://github.com/robertguss/pgkeel) - Zero-Lisp Rust `pgloader` replacement: migrate SQLite, MySQL/MariaDB, CSV, JSONL, and Parquet into PostgreSQL with DDL/type/index/FK translation, parallel streaming `COPY`, identity sequence resets, and row-count verification.
 - 🪶 [litekeel](https://github.com/robertguss/litekeel) - Blazing-fast, single-binary Rust drop-in for `sqlite-utils`: ingest CSV/TSV/JSON/JSONL/Parquet into SQLite with `--alter`, `--flatten`, true upserts, FTS5 BM25 search + sync triggers, `extract`, atomic `transform`, `analyze`, and `optimize`.
-- 🎭 [maskkeel](https://github.com/robertguss/maskkeel) - Blazing-fast, deterministic, referentially-intact Rust PII/FERPA data scrubber (keyed HMAC-SHA256) for CSV, TSV, JSONL, Parquet, SQLite, and PostgreSQL with leading-zero/INT-TEXT join parity and zero-leak `verify`.
+- 🎭 [maskkeel](https://github.com/robertguss/maskkeel) - Blazing-fast, deterministic, referentially-intact Rust PII/FERPA data scrubber (keyed HMAC-SHA256) for CSV, TSV, JSONL, Parquet, SQLite, and PostgreSQL with `text_redact`/JSONB embedded PII scrubbing, FK-coherent subsetting, leading-zero/INT-TEXT join parity, Parquet→Parquet, and offline HTML compliance receipts.
+- 📑 [sheetkeel](https://github.com/robertguss/sheetkeel) - Blazing-fast, single-binary Rust Excel (`.xlsx`/`.xls`/`.xlsb`/`.ods`) Swiss-army CLI: inspect workbooks, forward-fill merged cells (`--unmerge`), normalize headers, export to CSV/TSV/JSONL/Parquet/SQLite, pack formatted multi-tab `.xlsx`, and diff spreadsheets.
 
 ## 🧬 Languages & Databases
 - 🧬 [Mo](https://github.com/robertguss/mo) - A from-scratch programming language for the AI era
